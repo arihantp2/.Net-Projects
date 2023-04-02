@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UTILITY\\FileEncodingCheckUtility\\CheckEncodingOfFiles.csproj": {}
+  },
+  "projects": {
+    "D:\\UTILITY\\FileEncodingCheckUtility\\CheckEncodingOfFiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UTILITY\\FileEncodingCheckUtility\\CheckEncodingOfFiles.csproj",
+        "projectName": "CheckEncodingOfFiles",
+        "projectPath": "D:\\UTILITY\\FileEncodingCheckUtility\\CheckEncodingOfFiles.csproj",
+        "packagesPath": "C:\\Users\\Arihant Phad\\.nuget\\packages\\",
+        "outputPath": "D:\\UTILITY\\FileEncodingCheckUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arihant Phad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ProgramSynthesis.Detection": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.30, 3.1.30]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

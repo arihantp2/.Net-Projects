@@ -1,0 +1,184 @@
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.exe
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll.config
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.deps.json
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.json
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.dev.json
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.AssemblyReference.cache
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfoInputs.cache
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfo.cs
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CoreCompileInputs.cache
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CopyComplete
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+D:\GitLab\ITR\Utility\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.genruntimeconfig.cache
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.exe
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll.config
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.deps.json
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.json
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.dev.json
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.AssemblyReference.cache
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfoInputs.cache
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfo.cs
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CoreCompileInputs.cache
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CopyComplete
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.genruntimeconfig.cache
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Common.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Conditionals.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Detection.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Extraction.Text.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Read.FlatFile.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Split.Text.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Formula.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Formula.MachineLearning.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Text.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Arihant Phad\Downloads\FileEncodingCheckUtility (1)\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.exe
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll.config
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.deps.json
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.json
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.runtimeconfig.dev.json
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Common.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Conditionals.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Detection.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Extraction.Text.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Read.FlatFile.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Split.Text.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Formula.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Formula.MachineLearning.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.ProgramSynthesis.Transformation.Text.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libLdaNative.so
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libLdaNative.so
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.AssemblyReference.cache
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfoInputs.cache
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.AssemblyInfo.cs
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CoreCompileInputs.cache
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.csproj.CopyComplete
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.dll
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.pdb
+D:\UTILITY\FileEncodingCheckUtility\obj\Debug\netcoreapp3.1\CheckEncodingOfFiles.genruntimeconfig.cache
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\UTILITY\FileEncodingCheckUtility\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll

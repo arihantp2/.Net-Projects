@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckEncodingOfFiles", "CheckEncodingOfFiles.csproj", "{147A4AAC-C613-4578-95A2-0BA2597AB7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147A4AAC-C613-4578-95A2-0BA2597AB7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147A4AAC-C613-4578-95A2-0BA2597AB7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147A4AAC-C613-4578-95A2-0BA2597AB7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147A4AAC-C613-4578-95A2-0BA2597AB7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D322AE-2D02-4A7E-916D-6406D904B4D6}
+	EndGlobalSection
+EndGlobal
